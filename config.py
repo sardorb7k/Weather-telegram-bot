@@ -1,0 +1,3 @@
+BOT_TOKEN = "7349842589:AAGlhdy5Xq_aUNqznsC4WoX6Mi6ZCMp2l9U"
+CHANNEL_LINK = ['t.me/reclams_aaaa', "t.me/images_py"]
+CHANNEL_ID = [-1002196506624, -1002151952053]
